@@ -1,4 +1,4 @@
-# On a journey to become a great Smart Contract Auditor
+# Working toward becoming a top-tier Smart Contract Auditor
 
 Proactive Smart Contract Auditor and Web3 Security Researcher skilled in Solidity, EVM-based vulnerabilities, formal verification, and blockchain forensics. Experienced in bug bounty hunting, smart contract audits, and capture-the-flag (CTF) challenges. Passionate about continuous learning, mentoring others, and solving real-world problems through secure decentralized technology. And also loves to learn about new technologies.
 
